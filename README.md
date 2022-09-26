@@ -1,2 +1,2 @@
 # nexter
-Project in Advanced CSS course
+Project in Advanced CSS course using grid layouts
